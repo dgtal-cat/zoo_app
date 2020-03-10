@@ -1,13 +1,9 @@
 package com.dgtal_cat.app;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        minChecker.checkMin(0.5, 0.3);
     }
 }
